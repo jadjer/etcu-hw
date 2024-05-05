@@ -8,7 +8,7 @@
 | Value | Description |
 |-------|-------------|
 | [5](#5v) | 5 volts supply for sensors |
-| [12](#12v) | 12 volt supply for ETCU |
+| [12](#12v) | 12 volts supply for ETCU |
 | [BL](#BL) | Break light signal |
 | [CC](#CC) | Cruise cancel signal |
 | [CE](#CE) | Cruise enable/disable signal |
