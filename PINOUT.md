@@ -7,21 +7,23 @@
 
 | Value | Description |
 |-------|-------------|
-| [5](#5v) | 5 volts supply for sensors |
-| [12](#12v) | 12 volts supply for ETCU |
-| [BL](#BL) | Break light signal |
-| [CC](#CC) | Cruise cancel signal |
-| [CE](#CE) | Cruise enable/disable signal |
-| [CR](#CR) | Cruise reset/plus signal |
-| [CS](#CS) | Cruise set/minus signal |
-| [EA](#EA) | Encoder A sensor signal |
-| [EB](#EB) | Encoder B sensor signal |
-| [GD](#GD) | Ground |
-| [KL](#KL) | K-Line interface |
-| [LS](#LS) | Lock signal signal |
-| [M1](#M1) | Step motor coil A1 |
-| [M2](#M2) | Step motor coil A2 |
-| [M3](#M3) | Step motor coil B1 |
-| [M4](#M4) | Step motor coil B2 |
-| [T1](#T1) | Twist grip position sensor 1 signal |
-| [T2](#T2) | Twist grip position sensor 2 signal |
+|  5 | 5 volts supply for sensors |
+| 12 | 12 volts supply for ETCU |
+| BL | Break light signal |
+| CC | Cruise cancel signal |
+| CE | Cruise enable/disable signal |
+| CR | Cruise reset/plus signal |
+| CS | Cruise set/minus signal |
+| EA | Encoder A sensor signal |
+| EB | Encoder B sensor signal |
+| GD | Ground |
+| KL | K-Line interface |
+| LS | Lock signal signal |
+| M1 | Step motor coil A1 |
+| M2 | Step motor coil A2 |
+| M3 | Step motor coil B1 |
+| M4 | Step motor coil B2 |
+| SI | Starter input signal |
+| SO | Starter putput signal |
+| T1 | Twist grip position sensor 1 signal |
+| T2 | Twist grip position sensor 2 signal |
